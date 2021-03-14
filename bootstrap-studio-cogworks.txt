@@ -1,0 +1,10 @@
+Bootstrap Studio	Cogworks
+-                   File
+Appearance		    Look & Feel
+Options			    Options
+Animation		    Animation
+Design			    Design
+Studio			    Pods (Special Widgets for all/org)
+-			        Widget (General Widgets)
+-			        What Nots (Personal Widgets)
+Overview		    Overview

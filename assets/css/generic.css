@@ -1,0 +1,30 @@
+#app-wrapper {
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Temporary */
+#undo {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+#redo {
+    position: fixed;
+    bottom: 10px;
+    left: 100px;
+}
+.btn {
+    padding: 10px 20px;
+    display: inline;
+    cursor: pointer;
+    background-color: var(--red);
+    color: #fff;
+    z-index: 10;
+}
+.btn:hover {
+    background-color: var(--pink);
+}
